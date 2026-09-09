@@ -1,0 +1,1 @@
+company_name={"google","microsoft","apple","amazon"}
